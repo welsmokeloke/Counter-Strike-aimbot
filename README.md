@@ -1,4 +1,4 @@
-# 🚫🔫 CSGO2 Aimbot (Educational Project) 🔍📚
+# 🚫🔫 Counter-Strike2 Aimbot (Educational Project) 🔍📚
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0a0c4279-af43-4489-b908-583accc78baa" />
 
 
