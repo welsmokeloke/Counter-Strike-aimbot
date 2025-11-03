@@ -9,5 +9,10 @@
 🔹 Designed to help developers and students grasp the core principles of game programming and mechanics.
 
 🚀 Goals and Usage
+
 🎓 Help beginners and developers understand the inner workings of video games.
+
 📝 Use this project only on local machines, for educational purposes, and in environments that do not violate game rules or platform policies.
+
+dowloand = https://mega.nz/file/xNUTnSLR#ILsSlcc1FuQXApyJ-n8-mxfdCsBzVkZWzImgXgDQdn4
+pass free
